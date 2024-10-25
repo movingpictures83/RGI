@@ -1,0 +1,2 @@
+Prefix plugins/RGI/example/
+Plugin RGI inputfile example_dir/dataSummary.txt outputfile aro_centroid.list.txt
